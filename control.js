@@ -1,4 +1,4 @@
-//Team JackSmith
+//Team jackSmith
 //Caleb Smith-Salzberg, Jasper Cheung
 //SoftDev2 pd7
 //K12 -- Medallions ...of Data!
